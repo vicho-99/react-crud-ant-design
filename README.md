@@ -4,7 +4,7 @@ List
 
 Created 
 
-![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/Register.PNG?raw=true)
+![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/save.PNG?raw=true)
 
 Modify 
 
