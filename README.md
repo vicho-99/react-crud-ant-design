@@ -1,4 +1,19 @@
+List
+
 ![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/list.PNG?raw=true)
+
+Created 
+
+![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/Register.PNG?raw=true)
+
+Modify 
+
+![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/Register.PNG?raw=true)
+
+Delete 
+
+![alt text](https://github.com/vicho-99/react-crud-ant-design/blob/main/delete.PNG?raw=true)
+
 
 # Getting Started with Create React App
 
